@@ -1,9 +1,9 @@
 {
 "urls": [
 
-{"name":"XBPQ","url":"https://raw.githubusercontent.com/zhanghong1983/tvboxzy/main/XBPQ.json"},
+{"name":"XBPQ","url":"https://raw.iqiq.io/zhanghong1983/tvboxzy/main/XBPQ.json"},
 
-{"name":"SEX","url":"https://raw.githubusercontent.com/zhanghong1983/tvboxzy/main/SEX.json"},
+{"name":"SEX","url":"https://raw.iqiq.io/zhanghong1983/tvboxzy/main/SEX.json"},
 
 {"name":"南风","url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"},
 
@@ -29,19 +29,19 @@
 
 {"name":"大聪明","url":"https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8"},
 
-{"name":"高天流云XYQ","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json"},
+{"name":"高天流云XYQ","url":"https://raw.iqiq.io/gaotianliuyun/gao/master/XYQ.json"},
 
-{"name":"高天流云JS","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"},
+{"name":"高天流云JS","url":"https://raw.iqiq.io/gaotianliuyun/gao/master/js.json"},
 
-{"name":"高天流云Sex","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/9918.json"},
+{"name":"高天流云Sex","url":"https://raw.iqiq.io/gaotianliuyun/gao/master/9918.json"},
 
 {"name":"小苹果","url":"https://la.kstore.space/download/3376/xpg.txt"},
 
 {"name":"小苹果JS","url":"https://s2.pub/xpg"},
 
-{"name":"蜂蜜","url":"https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json"},
+{"name":"蜂蜜","url":"https://raw.iqiq.io/FongMi/CatVodSpider/main/json/config.json"},
 
-{"name":"蜂蜜Sex","url":"https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/adult.json"}
+{"name":"蜂蜜Sex","url":"https://raw.iqiq.io/FongMi/CatVodSpider/main/json/adult.json"}
 
 ],
 "vip": [
