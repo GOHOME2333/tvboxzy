@@ -1,0 +1,8 @@
+on:
+  push:
+    branches:
+    - main
+    - relesase/*
+  schedule:
+  - cron: "0 2 * * 1-7"
+  
